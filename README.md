@@ -1,4 +1,4 @@
-#Fake Job Posting Detection (Research Internship)
+## Fake Job Posting Detection (Research Internship)
 
 This repository contains the code and experiments from my research internship at the **University of Nottingham Malaysia**.  
 The project explores whether **supervised NLP models** can detect fraudulent job postings using both **textual** (title, description, requirements) and **structural** (logo, telecommuting, salary, etc.) features.
@@ -37,7 +37,7 @@ GRU and LSTM capture sequences but struggle due to class imbalance and limited f
 
 ---
 
-##How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/fake-job-detection.git
